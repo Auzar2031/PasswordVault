@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_height">54dp</dimen>
+    <dimen name="input_min_height">56dp</dimen>
+    <dimen name="touch_target_min">48dp</dimen>
+    <dimen name="default_padding">20dp</dimen>
+    <dimen name="large_margin">24dp</dimen>
+</resources>
